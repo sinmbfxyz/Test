@@ -1,0 +1,192 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Overloading",
+      "request": "launch",
+      "mainClass": "Overloading",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "Car",
+      "request": "launch",
+      "mainClass": "Car",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "ProductDemo",
+      "request": "launch",
+      "mainClass": "ProductDemo",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "Student",
+      "request": "launch",
+      "mainClass": "Student",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "Constructor",
+      "request": "launch",
+      "mainClass": "Constructor",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "Even1",
+      "request": "launch",
+      "mainClass": "Even1",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "First",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "Method4",
+      "request": "launch",
+      "mainClass": "Method4",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "Method2",
+      "request": "launch",
+      "mainClass": "Method2",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "Method1",
+      "request": "launch",
+      "mainClass": "Method1",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "Object1",
+      "request": "launch",
+      "mainClass": "Object1",
+      "projectName": "Raj Gurung - The pre-eminent one_24441500"
+    },
+    {
+      "type": "java",
+      "name": "Matadd",
+      "request": "launch",
+      "mainClass": "Matadd",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "Multi",
+      "request": "launch",
+      "mainClass": "Multi",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "Length",
+      "request": "launch",
+      "mainClass": "Length",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "Doublearr",
+      "request": "launch",
+      "mainClass": "Doublearr",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "PrimeSum",
+      "request": "launch",
+      "mainClass": "PrimeSum",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "Odd",
+      "request": "launch",
+      "mainClass": "Odd",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "Even",
+      "request": "launch",
+      "mainClass": "Even",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "Second",
+      "request": "launch",
+      "mainClass": "Second",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "Largest",
+      "request": "launch",
+      "mainClass": "Largest",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "Twinprime",
+      "request": "launch",
+      "mainClass": "Twinprime",
+      "projectName": "Raj Gurung - The ONE_2e4fb32c"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "First",
+      "projectName": "Raj Gurung - The unqiue one_5dc1d2e1"
+    },
+    {
+      "type": "java",
+      "name": "Descending",
+      "request": "launch",
+      "mainClass": "Descending",
+      "projectName": "Raj Gurung - The unqiue one_5dc1d2e1"
+    },
+    {
+      "type": "java",
+      "name": "Twinprime",
+      "request": "launch",
+      "mainClass": "Twinprime",
+      "projectName": "Raj Gurung - The unqiue one_5dc1d2e1"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Raj Gurung - The unqiue one",
+      "program": "d:/Raj Gurung - The unqiue one/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
